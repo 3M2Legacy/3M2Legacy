@@ -1,4 +1,5 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/joshmadakor1">SOC Enthusiast</a>, <a href="https://www.linkedin.com/in/mark-milton-22a974258/">Cybersecurity Professional</a>, <a href="https://mmmcyber.club/">Aspiring Cyber Security Blogger</a></h1>
+<h1>Hi, I'm Mark! <br/><a href="https://github.com/3M2Legacy![image](https://github.com/3M2Legacy/3M2Legacy/assets/119368545/98dfe87c-6fb8-4d3f-9941-2c6966c678b1)
+">SOC Enthusiast</a>, <a href="https://www.linkedin.com/in/mark-milton-22a974258/">Cybersecurity Professional</a>, <a href="https://mmmcyber.club/">Aspiring Cyber Security Blogger</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
