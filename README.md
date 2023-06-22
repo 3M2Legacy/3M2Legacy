@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mark! <br/><a href="https://github.com/3M2Legacy!">SOC Enthusiast</a>, <a href="https://www.linkedin.com/in/mark-milton-22a974258/">Cybersecurity Professional</a>, <a href="https://mmmcyber.club/">Aspiring Cyber Security Blogger</a></h1>
+<h1>Hi, I'm Mark! <br/><a href="https://github.com/3M2Legacy">SOC Enthusiast</a>, <a href="https://www.linkedin.com/in/mark-milton-22a974258/">Cybersecurity Professional</a>, <a href="https://mmmcyber.club/">Aspiring Cyber Security Blogger</a></h1>
 
 <h2>👨‍💻 Cyber Security Projects:</h2>
 
