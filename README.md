@@ -5,7 +5,7 @@
 - <b>Web Application Creation and Cloud Security in Azure</b>
   - [mmmcyber](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Web Application, Linux, and Windows Penetration Testing</b>
-  - [Rekall Network Penetration] <b><i>(Potentially NSFW)</b></i>
+  - [Rekall Network Penetration]()
 - <b>Splunk SIEM Monitoring</b>
   - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
 - <b>Bootcon MACCHANGER</b>
@@ -15,15 +15,15 @@
   - [Splunk Scheduling Reports & Alerts](https://github.com/joshmadakor1/DecrypterPOC)
   - [Splunk](https://github.com/joshmadakor1/Key-Logger-With-Email)
 - <b>Certifications</b>
-  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [On The Way (CompTia Security+ First)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
 <h2>📺 Popular Blog Entries</h2>
 
-- [How to get into Cybersecurity Starting From Zero]()
-- [A Day in the Life of a Cybersecurity Anayst]()
-- [How to Create a KeyLogger (C#)]()
-- [Ransomware Demonstration (C#)]()
-- [Is WGU Legit?]()
+- [The Recipe Of A Good Cybersecurity Professional]()
+- [How To Get Into Cybersecurity]()
+- [A Cybersecurity Bootcamp Student Day (UPenn)]()
+- [Cybersecurity Specialties]()
+- [Ways To Get Your Cybersecurity News]()
 
 <h2> 🤳 Connect with me:</h2>
 
